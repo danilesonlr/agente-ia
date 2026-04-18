@@ -15,10 +15,9 @@ Execute o script: python app.py.
 
 
 # ARQUIVO DE CONFIGURAÇÃO
-.env -  Esse arquivo contem os export e a chave do open api
+.env -  Esse arquivo contem os export 
 app.py - arquivo contendo o código de exemplo para executar 
 
-adicionar a chave do open api no .env variavel OPENAI_API_KEY
 
 
 # Problemas identificados e correções:

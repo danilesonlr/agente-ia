@@ -1,0 +1,5 @@
+openai
+langsmith
+python-dotenv
+flask
+flasgger

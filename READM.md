@@ -2,6 +2,11 @@
 Esse e um exemplo de agente IA com OLLAMA, uma aplicação sim que recebe pegunta e gerar responstas
 A agente está documentada com o swagger.
 
+
+Nessa verão estamos utilizando o RAG Retrieval-Augmented Generation (em português: Geração Aumentada por Recuperação).
+
+Adicionamos um arquivo recuperado na internet sobre a saúde da mulher o agente vai ter como base esse arquivo para formular as repostas 
+
 # Instruções para executar:
 Certifique-se de que o Ollama está instalado e rodando no seu sistema (baixe de ollama.ai).
 Baixe o modelo especificado: ollama pull llama3.2 (ou altere no .env para outro modelo gratuito disponível).
